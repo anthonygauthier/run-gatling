@@ -1,3 +1,8 @@
+# ** REPOSITORY ARCHIVED **
+Gatling recently came out with their own Action for running Gatling Enterprise on GitHub. If you're looking to integrate Gatling to your GH workflows, please refer [to it](https://github.com/gatling/enterprise-action). 
+
+---
+
 # run-gatling
 This action sets up Gatling in your workflow and allows continuous testing (CT) of an app's performances.
 
